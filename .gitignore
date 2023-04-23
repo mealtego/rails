@@ -12,3 +12,5 @@ coverage
 .tags
 /.vagrant
 /vendor/ruby
+
+.ai
